@@ -8,7 +8,7 @@ Bháskara foi o mais famoso Geômetra da Índia, considerado em seu tempo por to
 
 <p align="center">
     <img src="../img/bhaskara.jpg">
-    <figcaption align="center">Bhaskara Akaria, matemático, astrônomo e astrólogo indiano.</figcaption>
+    <p align="center">Bhaskara Akaria, matemático, astrônomo e astrólogo indiano.</p>
 </p>
 
 E você deve estar pensando: *Isso quer dizer que esse é o cara que criou a **Fórmula de Bháskara**, certo?*
