@@ -186,7 +186,7 @@ Entradas:
 
 Saída:
 - Se o valor de delta for maior que zero, o retorno deve ser dois valores reais e distintos. 
-- Se o delta for igual a zero, o retorno terá somente um valor real ou dois resultados iguais. 
+- Se o delta for igual a zero, o retorno terá somente um valor real (duas raízes iguais). 
 - Se o delta for menor que zero, deverá ser escrito no console que essa equação não possuí raízes reais.
 ``` 
 

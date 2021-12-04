@@ -23,6 +23,7 @@ Este repositório **não** é:
 ### Exercícios 1
 - [Médias](#)
 - [Números Pares](#)
+- [Pitágoras](#)
 
 ### Aula 2 - Estruturas de Condicionais
 - [Operadores de Comparação](#)
