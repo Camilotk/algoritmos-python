@@ -15,7 +15,7 @@ E você deve estar pensando: *Isso quer dizer que esse é o cara que criou a **F
 
 E lamento lhe informar que não!
 
-Na verdade, a fórmula é apenas conhecida com esse nome no Brasil. A maior parte do mudno conhece essa fórmula como **equação quadrática** e a mesma foi descoberta aproximadamente 4000 anos antes de Bháskara nascer, na Babilônia e foi amplamente empregada na forma geométrica pelos Gregos milhares de anos antes de Bháskara. Porém, na Europa o trabalho de Bháskara em *A Arte de Contar Sementes* tornou-se famosa, a mesma continha um método de resolução desses problemas que na verdade havia sido criado por outro matemático indiano chamado Sridhara que viveu duzentos anos antes de Bháskara, mas graças ao livro no mundo acadêmico europeu onde é normal associar pesquisadores da matemática ao conteúdo de suas obras Bháskara tornou-se conhecido por essa fórmula em sua obra de resolução de equações quadráticas.
+Na verdade, a fórmula é apenas conhecida com esse nome no Brasil. A maior parte do mundo conhece essa fórmula como **equação quadrática** e a mesma foi descoberta aproximadamente 4000 anos antes de Bháskara nascer, na Babilônia e foi amplamente empregada na forma geométrica pelos Gregos milhares de anos antes de Bháskara. Porém, na Europa o trabalho de Bháskara em *A Arte de Contar Sementes* tornou-se famosa, a mesma continha um método de resolução desses problemas que na verdade havia sido criado por outro matemático indiano chamado Sridhara que viveu duzentos anos antes de Bháskara, mas graças ao livro no mundo acadêmico europeu onde é normal associar pesquisadores da matemática ao conteúdo de suas obras assim Bháskara tornou-se conhecido por essa fórmula em sua obra de resolução de equações quadráticas.
 
 E agpra sim você deve estar pensando: *Ah! Agora entendi! Então foi esse tal de **Sridhara** quem criou essa fórmula que me traz memórias de guerra do ensino médio!*
 
@@ -44,7 +44,7 @@ A fórmula é essa:
 
 O valor representado por Δ (letra grega delta) é chamado de **discriminante**:
 <p align="center">
-    <img src="https://render.githubusercontent.com/render/math?math=$\Delta = b^2-4ac$" width="250">
+    <img src="https://render.githubusercontent.com/render/math?math=$\Delta = b^2-4ac$" width="200">
 </p>
 Seu valor vai nos dizer quantas raízes nossa equação vai ter:
 
