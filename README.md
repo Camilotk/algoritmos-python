@@ -34,7 +34,7 @@ Este repositório **não** é:
 ### Exercícios 2
 - [Mediana](#)
 - [Moda](#)
-- [Fórmula de Báskhara](./exs/ex1_bhaskara.md)
+- [Fórmula de Báskhara](./exs/ex6_bhaskara.md)
 
 ### Aula 3 - Estruturas de Repetição
 - [Repetição com for](#)
