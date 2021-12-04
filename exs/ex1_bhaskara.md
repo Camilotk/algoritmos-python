@@ -1,8 +1,15 @@
 # Fórmula de Bháskara
 
+
+
 ## Um pouco de história
 
 Bháskara foi o mais famoso Geômetra da Índia, considerado em seu tempo por todos um importante sábio que sabia todos os segredos dos astros e estudava os mistérios dos céus. Bhaskara nasceu em Bidon, na Provincia de Deca em 1145 d.C. Sua primeira e pricipal obra *Bija-ganita* (*Bija* quer dizer *semente*, e *ganita* quer dizer *contar, avaliar, medir* ou seja *A Arte de Contar Sementes*) que continha doze capítulos e foi o primeiro a apresentar um método de cálculo de duas raízes quadradas para um número positivo.
+
+<figure align="center">
+    <img src="../img/bhaskara.jpg">
+    <figcaption align="center">Bhaskara Akaria, matemático, astrônomo e astrólogo indiano.</figcaption>
+</figure>
 
 E você deve estar pensando: *Isso quer dizer que esse é o cara que criou a **Fórmula de Bháskara**, certo?*
 
@@ -16,7 +23,7 @@ E lamento lhe informar novamente que não!
 
 Eita! De novo? Pois é, a fórmula que estava presente em *A Arte de Contar Sementes* na verdade não é a mesma que utilizamos para resolver equações quadráticas no Ensino Médio, nessa obra o que é mostrado é um passo-a-passo (lembra disso?) de como encontrar as raízes de uma equação quadrádica, mas mesmo Bháskar ou Sridara não entendiam como isso funcionava ou tinham uma fórmula para isso, na verdade essa fórmula foi criada por um matemático francês chamado François Viète no Séc. XVII que a criou como uma formula geral para a resolução de equações de segundo grau.
 
-*Trè bien, allons-y*! 
+*Trè bien, allons-y*! 🇫🇷
 
 ## Vamos a Matemática!
 
@@ -182,3 +189,8 @@ Saída:
 - Se o delta for igual a zero, o retorno terá somente um valor real ou dois resultados iguais. 
 - Se o delta for menor que zero, deverá ser escrito no console que essa equação não possuí raízes reais.
 ``` 
+
+##### Dicas:
+- Calcule o valor de Delta primeiro.
+- Use estruturas condicionais para determinar o calculo da raíz a partir do Delta.
+- Caso seja necessário, reveja a aula sobre operadores aritméticos e entrada / saída de valores.
