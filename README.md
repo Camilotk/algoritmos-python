@@ -21,7 +21,8 @@ Este repositório **não** é:
 - [Entrada e Saída de Dados](#)
 
 ### Exercícios 1
-- [Fórmula de Báskhara](#)
+- [Médias](#)
+- [Números Pares](#)
 
 ### Aula 2 - Estruturas de Condicionais
 - [Operadores de Comparação](#)
@@ -30,7 +31,9 @@ Este repositório **não** é:
 - [Estuturas Encaixadas](#)
 
 ### Exercícios 2
-- [Média, Mediana e Moda](#)
+- [Mediana](#)
+- [Moda](#)
+- [Fórmula de Báskhara](./exs/ex1_bhaskara.md)
 
 ### Aula 3 - Estruturas de Repetição
 - [Repetição com for](#)
