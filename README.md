@@ -1,6 +1,10 @@
 # Algoritmos com Python
 
-Esse repositório traz materiais sobre o estudo de Algoritmos com Python. 
+Esse repositório traz materiais sobre o estudo de Algoritmos com Python.
+
+Este repositório **não** é:
+- Um repositório para ensinar Programação em Python, caso esteja buscando isso recomendamos o [Python4Noobs](https://github.com/wendrewdevelop/python4noobs), aqui apenas vamos ver as estruturas e comandos básicos que utilizamos na construção de programas estruturados.
+- Um manual completo de Algoritmos, é voltado para o conteúdo introdutório de algoritmos que se vê no inicio dos cursos de tecnologia.
 
 ## Conteúdos
 
