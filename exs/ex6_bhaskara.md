@@ -180,9 +180,9 @@ Ok, agora que relembramos como calcular equações de segundo grau vamos para no
 Você deve desenvolver um algoritmo em Python que calcule o resultado de uma equação quadrática.
 
 Entradas:
-- Valor number de a
-- Valor number de b
-- Valor number de c
+- Valor int de a
+- Valor int de b
+- Valor int de c
 
 Saída:
 - Se o valor de delta for maior que zero, o retorno deve ser dois valores reais e distintos. 
