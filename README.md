@@ -20,30 +20,17 @@ Este repositório **não** é:
 - [Operadores Aritméticos](#)
 - [Entrada e Saída de Dados](#)
 
-### Exercícios 1
-- [Médias](#)
-- [Números Pares](#)
-- [Teorema de Pitágoras](#)
-
 ### Aula 2 - Estruturas de Condicionais
 - [Operadores de Comparação](#)
 - [Operadores Booleanos](#)
 - [if...else](#)
 - [Estuturas Encaixadas](#)
 
-### Exercícios 2
-- [Mediana](#)
-- [Moda](#)
-- [Fórmula de Báskhara](./exs/ex6_bhaskara.md)
-
 ### Aula 3 - Estruturas de Repetição
 - [Repetição com for](#)
 - [Repetição com while](#)
 - [Repetições encaixadas](#)
 - [Depurador / Debugger](#)
-
-### Exercícios 3 
-- [Conversor de Sistemas de Numeração](#)
 
 ### Aula 4 - Listas
 - [Listas](#)
@@ -55,9 +42,6 @@ Este repositório **não** é:
     - append
     - insert
 
-### Exercícios 4
-- [Regra de Crammer](#)
-
 ### Aula 5 - Strings
 - [Strings são listas](#)
 - [Formatação de Strings](#)
@@ -67,9 +51,6 @@ Este repositório **não** é:
     - split
     - upper / lower / capitalize
     - replace
-
-### Exercícios 5
-- [Calculadora RPN](#)
 
 ### Aula 6 - Funções
 - [Funções](#)
@@ -81,9 +62,6 @@ Este repositório **não** é:
     - Empacotamento
     - Desempacotamento
 
-### Exercícios 6
-- [Torre de Hanói](#)
-
 ### Aula 7 - Dicionários
 - [Dicionários](#)
 - [Diferença de Listas](#)
@@ -93,30 +71,18 @@ Este repositório **não** é:
     - del
     - list
 
-### Exercícios 7
-- [Conversor de Criptomoedas](#)
-
 ### Aula 8 - Pythonismos
 - [Zen](#)
 - [PEP-8](#)
 - [Docstrings](#)
 - [Métodos Especiais](#)
 
-### Exercícios 8
-- [Turtle](#)
-
 ### Aula 9 - Testes
 - [O que são Testes Automatizados?](#)
 - [PyTest](#)
-
-### Exercícios 9
-- [Escrevendo testes](#)
 
 ### Aula 10 - Arquivos
 - [Arquivos em Python](#)
 - [Abrindo e Fechando Arquivos](#)
 - [csv](#)
 - [json](#)
-
-### Exercícios 10
-- [Livro de Visitas](#)
