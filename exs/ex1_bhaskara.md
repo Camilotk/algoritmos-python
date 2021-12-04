@@ -4,7 +4,7 @@
 
 ## Um pouco de história
 
-Bháskara foi o mais famoso Geômetra da Índia, considerado em seu tempo por todos um importante sábio que sabia todos os segredos dos astros e estudava os mistérios dos céus. Bhaskara nasceu em Bidon, na Provincia de Deca em 1145 d.C. Sua primeira e pricipal obra *Bija-ganita* (*Bija* quer dizer *semente*, e *ganita* quer dizer *contar, avaliar, medir* ou seja *A Arte de Contar Sementes*) que continha doze capítulos e foi o primeiro a apresentar um método de cálculo de duas raízes quadradas para um número positivo.
+Bháskara foi o mais famoso Geômetra da Índia, considerado em seu tempo por todos um importante sábio que sabia todos os segredos dos astros e estudava os mistérios dos céus. Bhaskara nasceu em Bidon, na Província de Deca em 1145 d.C. Sua primeira e principal obra *Bija-ganita* (*Bija* quer dizer *semente*, e *ganita* quer dizer *contar, avaliar, medir* ou seja *A Arte de Contar Sementes*) que continha doze capítulos e foi o primeiro a apresentar um método de cálculo de duas raízes quadradas para um número positivo.
 
 <p align="center">
     <img src="../img/bhaskara.jpg">
@@ -17,11 +17,11 @@ E lamento lhe informar que não!
 
 Na verdade, a fórmula é apenas conhecida com esse nome no Brasil. A maior parte do mundo conhece essa fórmula como **equação quadrática** e a mesma foi descoberta aproximadamente 4000 anos antes de Bháskara nascer, na Babilônia e foi amplamente empregada na forma geométrica pelos Gregos milhares de anos antes de Bháskara. Porém, na Europa o trabalho de Bháskara em *A Arte de Contar Sementes* tornou-se famosa, a mesma continha um método de resolução desses problemas que na verdade havia sido criado por outro matemático indiano chamado Sridhara que viveu duzentos anos antes de Bháskara, mas graças ao livro no mundo acadêmico europeu onde é normal associar pesquisadores da matemática ao conteúdo de suas obras assim Bháskara tornou-se conhecido por essa fórmula em sua obra de resolução de equações quadráticas.
 
-E agpra sim você deve estar pensando: *Ah! Agora entendi! Então foi esse tal de **Sridhara** quem criou essa fórmula que me traz memórias de guerra do ensino médio!*
+E agora sim você deve estar pensando: *Ah! Agora entendi! Agora tudo faz sentido! Todas portas se abriram! Então foi esse tal de **Sridhara** quem criou essa fórmula que me traz memórias de guerra do ensino médio!*
 
 E lamento lhe informar novamente que não!
 
-Eita! De novo? Pois é, a fórmula que estava presente em *A Arte de Contar Sementes* na verdade não é a mesma que utilizamos para resolver equações quadráticas no Ensino Médio, nessa obra o que é mostrado é um passo-a-passo (lembra disso?) de como encontrar as raízes de uma equação quadrádica, mas mesmo Bháskar ou Sridara não entendiam como isso funcionava ou tinham uma fórmula para isso, na verdade essa fórmula foi criada por um matemático francês chamado François Viète no Séc. XVII que a criou como uma formula geral para a resolução de equações de segundo grau.
+Eita! De novo? Pois é, a fórmula que estava presente em *A Arte de Contar Sementes* na verdade não é a mesma que utilizamos para resolver equações quadráticas no Ensino Médio, nessa obra o que é mostrado é um passo-a-passo (lembra disso?) de como encontrar as raízes de uma equação quadrática, mas mesmo Bháskara ou Sridara não entendiam como isso funcionava ou tinham uma fórmula para isso, na verdade essa fórmula foi criada por um matemático francês chamado François Viète no Séc. XVII que a criou como uma fórmula geral para a resolução de equações de segundo grau.
 
 *Trè bien, allons-y*! 🇫🇷
 
